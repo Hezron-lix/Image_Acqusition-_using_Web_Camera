@@ -132,8 +132,7 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 
-
-<img width="792" alt="Screenshot 2024-09-28 at 11 36 19 AM" src="https://github.com/user-attachments/assets/b56d016a-bac6-4b0d-99dd-424b9a0a6fb8">
+![1](https://github.com/user-attachments/assets/c6086bef-77d7-4065-b24d-c9623d82f91e)
 
 
 
@@ -144,8 +143,7 @@ cv2.destroyAllWindows()
 
 ### ii) Display the video
 
-<img width="792" alt="Screenshot 2024-09-28 at 11 36 19 AM" src="https://github.com/user-attachments/assets/b56d016a-bac6-4b0d-99dd-424b9a0a6fb8">
-
+![2](https://github.com/user-attachments/assets/a588d093-2121-4c44-a1c8-381aa27a5a3f)
 
 
 
@@ -155,8 +153,8 @@ cv2.destroyAllWindows()
 
 ### iii) Display the video by resizing the window
 
+![3](https://github.com/user-attachments/assets/10c58b02-a84e-49e6-8609-8f507dec5002)
 
-<img width="403" alt="Screenshot 2024-09-28 at 11 37 35 AM" src="https://github.com/user-attachments/assets/4c5645e7-652b-43a3-93f3-07d59aa0716e">
 
 
 
@@ -167,7 +165,8 @@ cv2.destroyAllWindows()
 
 ### iv) Rotate and display the video
 
-<img width="798" alt="Screenshot 2024-09-28 at 11 37 55 AM" src="https://github.com/user-attachments/assets/029c3321-3edb-4d07-81aa-7268f7c7b3f5">
+![4](https://github.com/user-attachments/assets/24609e56-d23a-4d45-8f3c-5de2e0ac1acf)
+
 
 
 
